@@ -1,8 +1,10 @@
 # learning-rust
 
 ## Intro
+- [Learn Rust](https://www.rust-lang.org/learn)
 - The Rust Programming Language - [En](https://doc.rust-lang.org/book/), [Ko](https://rinthel.github.io/rust-lang-book-ko/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+- [Rust by Example - Extended Edition](https://rust-by-example-ext.com/index.html)
 
 ## Books
 - [Programming Rust, 2nd Edition](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
@@ -37,11 +39,22 @@
 
 ## Cloud & Kubernetes
 - [Why the future of the cloud will be built on Rust](https://www.youtube.com/watch?v=BWL4889RKhU) (2021.05)
+- [Cloud Native Rust Day EU 2021](https://www.youtube.com/playlist?list=PLj6h78yzYM2MKPAas7pxIvueTbwFqVRCX)
 - [Microsoft: Why we used programming language Rust over Go for WebAssembly on Kubernetes app](https://www.zdnet.com/article/microsoft-why-we-used-programming-language-rust-over-go-for-webassembly-on-kubernetes-app/) (2020.04)
 - [Rust at CNCF](https://www.cncf.io/blog/2020/06/22/rust-at-cncf/) (2020.06)
-- [kube-rs](https://github.com/clux/kube-rs)
-- [akri](https://github.com/deislabs/akri)
+
+## Awesome Rust
 - [bottlerocket-os](https://github.com/bottlerocket-os)
+- [containrs](https://github.com/cri-o/containrs/)
+- [kube-rs](https://github.com/clux/kube-rs)
+- [kubesql](https://github.com/Dentrax/kubesql)
+- [krustlet-cri](https://github.com/kflansburg/krustlet-cri)
+- [tonic](https://github.com/hyperium/tonic)
+- [tokio](https://github.com/tokio-rs/tokio)
+- [akri](https://github.com/deislabs/akri)
+- [rustls](https://github.com/ctz/rustls)
+- [state-machine-future](https://github.com/fitzgen/state_machine_future)
+- [kubewarden-istio-ingress-mutation-networking-v1beta1](https://github.com/darren-bell-nanthealth/kubewarden-istio-ingress-mutation-networking-v1beta1)
 
 ## Others
 - [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison)
