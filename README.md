@@ -8,6 +8,10 @@
 - [Programming Rust, 2nd Edition](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 - [Hands-On Systems Programming with Rust](https://learning.oreilly.com/library/view/hands-on-systems-programming/9781098109424/)
 
+## Articles
+- [Using Rust 1.49.0 toolset](https://access.redhat.com/documentation/en-us/red_hat_developer_tools/1/html/using_rust_1.49.0_toolset/index)
+- [Introducing Glommio, a Thread-per-Core Crate for Rust & Linux](https://www.datadoghq.com/blog/engineering/introducing-glommio/) (2020.11)
+
 ## Videos
 - [Leanring Rust](https://learning.oreilly.com/videos/learning-rust/9781788477918/)
 - [Ultimate Rust Crash Course](https://learning.oreilly.com/videos/ultimate-rust-crash/9781800563902/)
@@ -19,6 +23,7 @@
 
 ## GitHub
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
+- [tjtelan/rust-examples](https://github.com/tjtelan/rust-examples)
 
 ## WebAssembly
 - [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
@@ -36,6 +41,7 @@
 - [Rust at CNCF](https://www.cncf.io/blog/2020/06/22/rust-at-cncf/) (2020.06)
 - [kube-rs](https://github.com/clux/kube-rs)
 - [akri](https://github.com/deislabs/akri)
+- [bottlerocket-os](https://github.com/bottlerocket-os)
 
 ## Others
 - [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison)
