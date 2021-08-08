@@ -38,6 +38,7 @@
 - [Futures and gRPC in Rust](https://pingcap.com/blog/2017-09-12-futuresandgrpc) (2017.09)
 
 ## Cloud & Kubernetes
+- [rust-cloud-native.github.io](https://rust-cloud-native.github.io/)
 - [Why the future of the cloud will be built on Rust](https://www.youtube.com/watch?v=BWL4889RKhU) (2021.05)
 - [Cloud Native Rust Day EU 2021](https://www.youtube.com/playlist?list=PLj6h78yzYM2MKPAas7pxIvueTbwFqVRCX)
 - [Microsoft: Why we used programming language Rust over Go for WebAssembly on Kubernetes app](https://www.zdnet.com/article/microsoft-why-we-used-programming-language-rust-over-go-for-webassembly-on-kubernetes-app/) (2020.04)
