@@ -7,8 +7,16 @@
 - [Rust by Example - Extended Edition](https://rust-by-example-ext.com/index.html)
 
 ## Books
-- [Programming Rust, 2nd Edition](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
-- [Hands-On Systems Programming with Rust](https://learning.oreilly.com/library/view/hands-on-systems-programming/9781098109424/)
+
+- [Effective Rust: 35 Specific Ways to Improve Your Rust Code](https://a.co/d/5cxIPj4) (2024.03)
+- [Asynchronous Programming in Rust: Learn asynchronous programming by building working examples of futures, green threads, and runtimes](https://a.co/d/biuB8XL) (2024.02)
+- [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://a.co/d/aH8s8rF) (2023.02)
+- [Zero To Production In Rust: An introduction to backend development](https://a.co/d/1YRd0Bv) (2022.03)
+- [Command-Line Rust: A Project-Based Primer for Writing Rust CLIs](https://a.co/d/06LfKHz) (2022.02)
+- [Rust in Action](https://a.co/d/biuB8XL) (2021.08)
+- [Programming Rust, 2nd Edition](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/) (2021.07)
+- [Hands-On Data Structures and Algorithms with Rust: Learn programming techniques to build effective, maintainable, and readable code in Rust 2018](https://a.co/d/80qe0Hx) (2019.01)
+- [Hands-On Systems Programming with Rust](https://learning.oreilly.com/library/view/hands-on-systems-programming/9781098109424/) (2018.03)
 
 ## Articles
 - [Using Rust 1.49.0 toolset](https://access.redhat.com/documentation/en-us/red_hat_developer_tools/1/html/using_rust_1.49.0_toolset/index)
@@ -60,3 +68,4 @@
 ## Others
 - [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison)
 - [Rustのリンク集](https://qiita.com/mosh/items/7e327dafbe53b72ad99d)
+Programming Rust: Fast, Safe Systems Development 2nd Edition
