@@ -3,6 +3,7 @@
 ## Intro
 - [Learn Rust](https://www.rust-lang.org/learn)
 - The Rust Programming Language - [En](https://doc.rust-lang.org/book/), [Ko](https://rinthel.github.io/rust-lang-book-ko/)
+- [Easy Rust](https://dhghomon.github.io/easy_rust/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust by Example - Extended Edition](https://rust-by-example-ext.com/index.html)
 
@@ -25,6 +26,8 @@
 ## Generics
 - [Understanding Rust generics and how to use them](https://blog.logrocket.com/understanding-rust-generics/)
 - [Mastering Generics in Rust: A Hands-on Guide](https://www.linkedin.com/pulse/mastering-generics-rust-hands-onguide-luis-soares-m-sc-/)
+- [How to implement trait for nested generic type?](https://users.rust-lang.org/t/how-to-implement-trait-for-nested-generic-type/106802)
+- [How to `BorrowMut` a trait impl without `dyn`? (nested generic)](https://users.rust-lang.org/t/how-to-borrowmut-a-trait-impl-without-dyn-nested-generic/90679)
 - [Bounded generics over constants in Rust](https://repositorio.uniandes.edu.co/server/api/core/bitstreams/d8ff4d64-a163-4ac3-b136-7bd8a8244048/content)
 
 ## Design Patterns
