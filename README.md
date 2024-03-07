@@ -7,9 +7,9 @@
 - [Rust by Example - Extended Edition](https://rust-by-example-ext.com/index.html)
 
 ## Books
-
 - [Effective Rust: 35 Specific Ways to Improve Your Rust Code](https://a.co/d/5cxIPj4) (2024.03)
 - [Asynchronous Programming in Rust: Learn asynchronous programming by building working examples of futures, green threads, and runtimes](https://a.co/d/biuB8XL) (2024.02)
+- [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns) (2023.06)
 - [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://a.co/d/aH8s8rF) (2023.02)
 - [Zero To Production In Rust: An introduction to backend development](https://a.co/d/1YRd0Bv) (2022.03)
 - [Command-Line Rust: A Project-Based Primer for Writing Rust CLIs](https://a.co/d/06LfKHz) (2022.02)
@@ -21,6 +21,33 @@
 ## Articles
 - [Using Rust 1.49.0 toolset](https://access.redhat.com/documentation/en-us/red_hat_developer_tools/1/html/using_rust_1.49.0_toolset/index)
 - [Introducing Glommio, a Thread-per-Core Crate for Rust & Linux](https://www.datadoghq.com/blog/engineering/introducing-glommio/) (2020.11)
+
+## Generics
+- [Understanding Rust generics and how to use them](https://blog.logrocket.com/understanding-rust-generics/)
+- [Mastering Generics in Rust: A Hands-on Guide](https://www.linkedin.com/pulse/mastering-generics-rust-hands-onguide-luis-soares-m-sc-/)
+- [Bounded generics over constants in Rust](https://repositorio.uniandes.edu.co/server/api/core/bitstreams/d8ff4d64-a163-4ac3-b136-7bd8a8244048/content)
+
+## Design Patterns
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+- [lpxxn/rust-design-pattern](https://github.com/lpxxn/rust-design-pattern)
+- [fadeevab/design-patterns-rust](https://github.com/fadeevab/design-patterns-rust)
+- [Mastering Rust Design Patterns: A Comprehensive Guide with Code Examples](https://blog.devgenius.io/mastering-rust-design-patterns-a-comprehensive-guide-with-code-examples-46f045824d7f)
+- [Functional design patterns using rust](https://www.bipinpaulbedi.com/functional-design-patterns-using-rust)
+- [Rust Performance Design Patterns: Writing Efficient and Safe Code](https://www.linkedin.com/pulse/rust-performance-design-patterns-writing-efficient-luis-soares-m-sc--uqo8f/)
+- [Asynchronous Design Patterns in Rust](https://www.linkedin.com/pulse/asynchronous-design-patterns-inrust-luis-soares-m-sc--4mskf)
+
+## Toys
+- https://github.com/luishsr/rust-api-gateway
+- https://github.com/luishsr/rust-tls-handshake
+- https://github.com/luishsr/rust-faas-serverless
+- https://github.com/luishsr/rust-vpn/
+- https://github.com/luishsr/rustp2p/
+- https://github.com/luishsr/rust-network-monitor
+
+## Tips and Tricks
+- https://github.com/vandadnp/rust-tips-and-tricks
+- [The Rust Closure Cookbook: Patterns, Tips, and Best Practices](https://www.linkedin.com/pulse/rust-closure-cookbook-patterns-tips-best-practices-luis-soares-m-sc--44wsf)
+- [12 Rust Tips and Tricks you might not know yet](https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/)
 
 ## Videos
 - [Leanring Rust](https://learning.oreilly.com/videos/learning-rust/9781788477918/)
